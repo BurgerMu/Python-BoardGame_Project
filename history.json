@@ -1,0 +1,157 @@
+[
+  {
+    "round_number": 1,
+    "reason": "Ryu (Toby) exposed Heng — the Culprit.",
+    "winners": [
+      "Ryu"
+    ],
+    "scores": {
+      "Ryu": 3,
+      "Heng": 0,
+      "Ravit": 1
+    },
+    "culprit": "Heng",
+    "players": [
+      "Heng",
+      "Ravit",
+      "Ryu"
+    ],
+    "timestamp": "2026-04-24T21:17:49"
+  },
+  {
+    "round_number": 1,
+    "reason": "Player 2 (Detective) unmasked Player 3 — the Culprit.",
+    "winners": [
+      "Player 2"
+    ],
+    "scores": {
+      "Player 2": 2,
+      "Player 3": 0,
+      "Player 1": 1
+    },
+    "culprit": "Player 3",
+    "players": [
+      "Player 1",
+      "Player 2",
+      "Player 3"
+    ],
+    "timestamp": "2026-04-24T21:33:14"
+  },
+  {
+    "round_number": 2,
+    "reason": "The handcuffs were on Player 1, but the real Culprit was Player 3. They escape!",
+    "winners": [
+      "Player 3"
+    ],
+    "scores": {
+      "Player 1": 0,
+      "Player 2": 0,
+      "Player 3": 0
+    },
+    "culprit": "Player 3",
+    "players": [
+      "Player 1",
+      "Player 2",
+      "Player 3"
+    ],
+    "timestamp": "2026-04-24T21:35:47"
+  },
+  {
+    "round_number": 1,
+    "reason": "The handcuffs token was on Player 2 — the Culprit is caught!",
+    "winners": [
+      "Player 1",
+      "Player 3"
+    ],
+    "scores": {
+      "Player 2": 0,
+      "Player 1": 1,
+      "Player 3": 1
+    },
+    "culprit": "Player 2",
+    "players": [
+      "Player 1",
+      "Player 2",
+      "Player 3"
+    ],
+    "timestamp": "2026-04-24T21:54:11"
+  },
+  {
+    "round_number": 1,
+    "reason": "The handcuffs token was on Player 1 — the Culprit is caught!",
+    "winners": [
+      "Player 2",
+      "Player 3"
+    ],
+    "scores": {
+      "Player 1": 0,
+      "Player 2": 1,
+      "Player 3": 1
+    },
+    "culprit": "Player 1",
+    "players": [
+      "Player 1",
+      "Player 2",
+      "Player 3"
+    ],
+    "timestamp": "2026-04-24T22:07:32"
+  },
+  {
+    "round_number": 2,
+    "reason": "The handcuffs token was on Player 1 — the Culprit is caught!",
+    "winners": [
+      "Player 2",
+      "Player 3"
+    ],
+    "scores": {
+      "Player 1": 0,
+      "Player 2": 1,
+      "Player 3": 1
+    },
+    "culprit": "Player 1",
+    "players": [
+      "Player 1",
+      "Player 2",
+      "Player 3"
+    ],
+    "timestamp": "2026-04-24T22:08:31"
+  },
+  {
+    "round_number": 3,
+    "reason": "Player 2 (Detective) unmasked Player 1 — the Culprit.",
+    "winners": [
+      "Player 2"
+    ],
+    "scores": {
+      "Player 2": 2,
+      "Player 1": 0,
+      "Player 3": 1
+    },
+    "culprit": "Player 1",
+    "players": [
+      "Player 1",
+      "Player 2",
+      "Player 3"
+    ],
+    "timestamp": "2026-04-24T22:09:56"
+  },
+  {
+    "round_number": 4,
+    "reason": "Player 1 (Detective) unmasked Player 3 — the Culprit.",
+    "winners": [
+      "Player 1"
+    ],
+    "scores": {
+      "Player 1": 2,
+      "Player 3": 0,
+      "Player 2": 1
+    },
+    "culprit": "Player 3",
+    "players": [
+      "Player 1",
+      "Player 2",
+      "Player 3"
+    ],
+    "timestamp": "2026-04-24T22:10:32"
+  }
+]

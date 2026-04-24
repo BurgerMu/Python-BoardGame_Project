@@ -1,0 +1,17 @@
+{
+  "Player 1": {
+    "games": 1,
+    "wins": 0,
+    "total_points": 2
+  },
+  "Player 2": {
+    "games": 1,
+    "wins": 1,
+    "total_points": 5
+  },
+  "Player 3": {
+    "games": 1,
+    "wins": 0,
+    "total_points": 3
+  }
+}
