@@ -1,0 +1,24 @@
+# Shadow House Masquerade — Python dependencies
+# -----------------------------------------------
+#
+# This project is intentionally dependency-light: it uses only the
+# Python standard library.
+#
+#   * tkinter   - shipped with CPython (no pip install needed)
+#   * json      - standard library
+#   * random    - standard library
+#   * dataclasses, typing, os, sys, datetime - standard library
+#
+# Tkinter ships with the official CPython installer on Windows and macOS.
+# On Debian / Ubuntu Linux, install it via the system package manager if
+# it's missing:
+#
+#       sudo apt-get install python3-tk
+#
+# On Fedora / RHEL:
+#
+#       sudo dnf install python3-tkinter
+#
+# No third-party PyPI packages are required, so this file is empty of
+# runtime requirements. It is kept in the repository purely to satisfy
+# the "include requirements.txt" submission rule.
